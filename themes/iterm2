@@ -1,0 +1,23 @@
+# Exact port of iTerm2 "Default" profile — DARK mode variant
+# Extracted 2026-06-10 via PlistBuddy ('(Dark)' keys) from com.googlecode.iterm2.plist
+palette = 0=#000000
+palette = 1=#ff6b4d
+palette = 2=#68ff40
+palette = 3=#fffc16
+palette = 4=#788bff
+palette = 5=#f44fff
+palette = 6=#4cfaff
+palette = 7=#c2c2c2
+palette = 8=#999999
+palette = 9=#ffbeb9
+palette = 10=#b3ffc9
+palette = 11=#fffcb6
+palette = 12=#9ba0ff
+palette = 13=#f6a4ff
+palette = 14=#adfcff
+palette = 15=#ffffff
+background = #000000
+foreground = #ffffff
+cursor-color = #ffffff
+selection-background = #b3d7ff
+selection-foreground = #000000
